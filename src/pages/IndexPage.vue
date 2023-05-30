@@ -47,8 +47,8 @@
     <div class="q-pa-sm"></div>
     <div class="text-center myfont text-h4">New article</div>
 
-    <div class="q-pa-md row items-start q-gutter-md myfont">
-      <q-card flat bordered class="bg-primary my-card col">
+    <div class="q-pa-md row items-start q-gutter-md myfont justify-center">
+      <q-card flat bordered class="bg-primary my-card col-md-3 col-sm-12">
         <q-card-section>
           <div class="text-h6">標題1</div>
           <p>YYYY1/MM1/DD1</p>
@@ -56,7 +56,7 @@
         <q-separator inset />
         <q-card-section class="q-pt-none"> 摘要1 ... </q-card-section>
       </q-card>
-      <q-card flat bordered class="bg-primary my-card col">
+      <q-card flat bordered class="bg-primary my-card col-md-3 col-sm-12">
         <q-card-section>
           <div class="text-h6">標題2</div>
           <p>YYYY2/MM2/DD2</p>
@@ -64,7 +64,7 @@
         <q-separator inset />
         <q-card-section class="q-pt-none"> 摘要2 ... </q-card-section>
       </q-card>
-      <q-card flat bordered class="bg-primary my-card col">
+      <q-card flat bordered class="bg-primary my-card col-md-3 col-sm-12">
         <q-card-section>
           <div class="text-h6">標題3</div>
           <p>YYYY3/MM3/DD3</p>
