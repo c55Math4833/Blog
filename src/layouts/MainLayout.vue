@@ -9,7 +9,7 @@
           <text-h3>c55Math4833 Blog</text-h3>
         </q-toolbar-title>
         <q-tabs align="right">
-          <q-route-tab to="/NotePage" label="Note" />
+          <q-route-tab to="/notes" label="Note" />
           <q-route-tab to="/Code" label="Code" />
           <q-route-tab to="/Photo" label="Photo" />
         </q-tabs>
